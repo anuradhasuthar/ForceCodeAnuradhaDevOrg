@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics xmlns="http://soap.sforce.com/2006/04/metadata">
+    <managedTopic>
+        <fullName>customerstandard.Navigational:Level1 Subtopic</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Level1 Subtopic</name>
+        <parentName>Level1Topic-comm</parentName>
+        <position>0</position>
+        <topicDescription> </topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>customerstandard.Navigational:Level1Topic-comm</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Level1Topic-comm</name>
+        <parentName></parentName>
+        <position>0</position>
+        <topicDescription> </topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>customerstandard.Navigational:Level2Topic-comm</fullName>
+        <managedTopicType>Navigational</managedTopicType>
+        <name>Level2Topic-comm</name>
+        <parentName></parentName>
+        <position>1</position>
+        <topicDescription> </topicDescription>
+    </managedTopic>
+</ManagedTopics>
